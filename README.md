@@ -14,13 +14,17 @@ If you are just starting out this is a begginer friendly cool project , just giv
 
 ## Overview
 
-**PCB Name Card** is a namecard  made from a pcb that shows a short overview about me and that has blinking LEDS because why not? Also there is a qr code for contact .
+**PCB Name Card** is a namecard  made from a pcb that shows a short overview about me and that has blinking LEDS because why not? 
 **Timelapse link** : https://lapse.hackclub.com/timelapse/6II9IPPDLHkS
 ## Features
 
 -Blinking Leds
 
 -Each component is labeled
+
+-QR code for contact information
+
+-Keychain Hole at the right top corner
 
 
 
