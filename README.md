@@ -49,10 +49,11 @@ PCB-Name-Card/
 ├── README.md
 ├── LICENSE
 ├── pcb/
-    ├── nouveaupad.kicad_pro
-    ├── nouveaupad.kicad_sch
-    ├── nouveaupad.kicad_pcb
+    ├── soldernameplate.kicad_pro
+    ├── soldernameplate.kicad_sch
+    ├── soldernameplate.kicad_pcb
     └── gerbers/
+
 
 ```
 
