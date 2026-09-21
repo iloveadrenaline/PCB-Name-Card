@@ -9,7 +9,6 @@ A name card made for hackathons with a pcb and some components that is funded by
 ## Overview
 
 **PCB Name Card** is a namecard  made from a pcb that shows a short overview about me and that has blinking LEDS because why not?
-**Project link** : https://stardance.hackclub.com/projects/39690
 
 ## Features
 
@@ -40,9 +39,9 @@ PCB-Name-Card/
 ├── README.md
 ├── LICENSE
 ├── pcb/
-│   ├── nouveaupad.kicad_pro
-│   ├── nouveaupad.kicad_sch
-│   ├── nouveaupad.kicad_pcb
+    ├── nouveaupad.kicad_pro
+    ├── nouveaupad.kicad_sch
+    ├── nouveaupad.kicad_pcb
     └── gerbers/
 
 ```
