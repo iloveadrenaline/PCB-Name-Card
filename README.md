@@ -72,3 +72,4 @@ This project is released under the MIT License -- see in the repo
 - Built for [Hack Club's Solder](https://solder.hackclub.com/) YSWS program
 - Designed by [iloveadrenaline](https://github.com/iloveadrenaline)
 - Slack username : iloveadrenaline
+-Claude was used for debbuging and some informations
