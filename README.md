@@ -14,6 +14,7 @@ A name card made for hackathons with a pcb and some components that is funded by
 ## Features
 
 -Blinking Leds
+
 -Each component is labeled
 
 
