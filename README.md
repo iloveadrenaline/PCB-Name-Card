@@ -1,7 +1,7 @@
 # PCB-Name-Card
 
 A name card made for hackathons with a pcb and some components that is funded by #Solder ( More on that at the end)
-This is my 3rd time using KiCad , before this I made a macropad and a clock ( Check my repos for those)
+This is my 3rd time using KiCad  , before this I made a macropad and a clock ( Check my repos for those)
 If you are just starting out this is a begginer friendly cool project , just give it a try .
 
 
@@ -14,7 +14,7 @@ If you are just starting out this is a begginer friendly cool project , just giv
 
 ## Overview
 
-**PCB Name Card** is a namecard  made from a pcb that shows a short overview about me and that has blinking LEDS because why not?
+**PCB Name Card** is a namecard  made from a pcb that shows a short overview about me and that has blinking LEDS because why not? Also there is a qr code for contact .
 **Timelapse link** : https://lapse.hackclub.com/timelapse/6II9IPPDLHkS
 ## Features
 
