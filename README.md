@@ -5,7 +5,8 @@ This is my 3rd time using KiCad  , before this I made a macropad and a clock ( C
 If you are just starting out this is a begginer friendly cool project , just give it a try .
 
 
-<img width="991" height="615" alt="PCB3D" src="https://github.com/user-attachments/assets/c6e1fcd4-4231-409f-a188-e4e8e57bc0eb" />
+<img width="956" height="543" alt="PCB REAL 3D" src="https://github.com/user-attachments/assets/e84ca2b1-f912-47d3-bca7-3f6a5ca75fd2" />
+
 
 
 
@@ -29,7 +30,9 @@ If you are just starting out this is a begginer friendly cool project , just giv
 
 
 ## PCB Schematics & PCB
-<img width="987" height="591" alt="Captură de ecran 2026-09-21 221527" src="https://github.com/user-attachments/assets/70d1efa3-ea84-4cbb-a45b-6093eb577ecf" />
+
+<img width="971" height="576" alt="PCB3D" src="https://github.com/user-attachments/assets/6f22d26d-f755-404d-b286-966151cfc871" />
+
 <img width="1194" height="632" alt="Captură de ecran 2026-09-20 231723" src="https://github.com/user-attachments/assets/f7f8f347-24fd-4af4-a6ad-fbf0939aa16b" />
 
 
